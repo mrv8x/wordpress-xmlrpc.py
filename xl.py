@@ -10,7 +10,7 @@ for i in passwords:
    <methodCall>
    <methodName>wp.getUsersBlogs</methodName>
    <params>
-   <param><value><string>bopress
+   <param><value><string>admin
    </string>
    </value>
    </param>
